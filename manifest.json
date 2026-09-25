@@ -1,0 +1,9 @@
+{
+  "name": "Alpha Dental Clinic",
+  "short_name": "ADC",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#edf3f4",
+  "theme_color": "#063d4a",
+  "icons": []
+}
